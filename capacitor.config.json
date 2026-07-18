@@ -1,0 +1,12 @@
+{
+  "appId": "com.jack.linguaplay",
+  "appName": "LinguaPlay",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  },
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  }
+}
